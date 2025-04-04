@@ -3,6 +3,9 @@
 This software requires pygame to work. Pygame can be installed according the website: [GettingStarted - pygame wiki](https://www.pygame.org/wiki/GettingStarted) 
 
 Information on the liabilities taken for this software and terms and conditions can be found at the bottom of the README.md file supplied with this software, and at https://github.com/shashankraocoding/Ideate2D. This software is distributed under the same license as Pygame (the  [GNU LGPL version 2.1](https://www.gnu.org/copyleft/lesser.html), also supplied with this software). 
+
+## Video Guides Coming Soon!! 
+
 ## About 
 ### What You See Is What You Get
 Ideate2D holds this moto at its core. You design what you want without worrying about the basics, like scaling or image management, gravity, object physics, or any of the other million things you'd rather leave to us. The end product is exactly as it appears to you in the editor. 
