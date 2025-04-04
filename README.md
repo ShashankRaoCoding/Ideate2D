@@ -53,5 +53,5 @@ This project, Ideate2D, was developed as an experimental tool and is provided on
 Important Disclaimers:
 
 - Use at Your Own Risk 
-- No Warranty: The author, and any contributors to this repository are not responsible for any errors, omissions, or damages resulting from the use or misuse of the software.
+- No Warranty: The author, and any contributors to this repository are not responsible for any errors, negligence, omissions, or damages resulting from the use or misuse of the software.
 - By using this software, you agree to assume all risks associated with its use.
