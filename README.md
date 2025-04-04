@@ -30,7 +30,7 @@ Ideate2D keeps it simple: everything can be made with these 3 objects:
 3. Illusory Objects 
 
 #### Static Objects 
-As the name implies, they are static. More specifically, **no external forces** can act on them. That said, they can be moved (example, a moving platform) if explicitly made to do so using [Special Functions]([ShashankRaoCoding/Ideate2D: Ideate2D is a 2D game engine built on top of the pygame framework. It is designed to allow quick prototyping of 2D games while handling basic physics simulations and game-events in an implicit, and easily modifiable manner. Meant for game makers who require a lower-level control over their game in python without needing to start from zero.](https://github.com/ShashankRaoCoding/Ideate2D/tree/main?tab=readme-ov-file#special-functions)). 
+As the name implies, they are static. More specifically, **no external forces** can act on them. That said, they can be moved (example, a moving platform) if explicitly made to do so using [Special Functions](https://github.com/ShashankRaoCoding/Ideate2D/tree/main?tab=readme-ov-file#special-functions). 
 
 #### Dynamic Objects: 
 External forces, including being pushed by the player, are enabled! 
@@ -40,7 +40,7 @@ These are the juicy ones! Arguably the most important of the 3, and the most cus
 
 An illusory object is, as the name implies, like an illusion. The player can see them (if they aren't given an invisible image), and can walk through them, but can neither push them, nor is obstructed by them. What's the point? They can be used to trigger events! 
 
-If given the appropriate [Special Functions]([ShashankRaoCoding/Ideate2D: Ideate2D is a 2D game engine built on top of the pygame framework. It is designed to allow quick prototyping of 2D games while handling basic physics simulations and game-events in an implicit, and easily modifiable manner. Meant for game makers who require a lower-level control over their game in python without needing to start from zero.](https://github.com/ShashankRaoCoding/Ideate2D/tree/main?tab=readme-ov-file#special-functions)), an illusory object can detect when a player passes through it to start an event. Alternatively, use it to add cosmetic features, such as a background, trees, or bushes, etc. 
+If given the appropriate [Special Functions](https://github.com/ShashankRaoCoding/Ideate2D/tree/main?tab=readme-ov-file#special-functions), an illusory object can detect when a player passes through it to start an event. Alternatively, use it to add cosmetic features, such as a background, trees, or bushes, etc. 
 
 #### Custom Objects: 
 If you want to make an object of your own, just go to datastructures/objects.py and define an object. Note that it **must** inherit from the '*object_template*' object already provided in the same file. 
