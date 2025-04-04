@@ -16,9 +16,7 @@ Are other game engines not giving you enough control over your game? Or perhaps 
 Want to use other libraries? Just use them like normal, and they (should) work with Ideate2D seamlessly! 
 
 ## Design Philosophy 
-
-> [!Key] 
-> When it really comes down to it, a game is just a simulation. The game author sets up the game world, but what happens next is up to the player. 
+*When it really comes down to it, a game is just a simulation. The game author sets up the game world, but what happens next is up to the player.* 
 
 This is the theory behind Ideate2D. You setup the game world, and the player takes it from there. You can be as specific or vague as you like. 
 
