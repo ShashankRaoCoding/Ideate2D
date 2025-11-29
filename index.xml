@@ -6,23 +6,23 @@
       <description>Last 10 notes on ShanksMakesStuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Ideate2D</title>
+    <link>https://shanksmakesstuff.xyz/Ideate2D</link>
+    <guid>https://shanksmakesstuff.xyz/Ideate2D</guid>
+    <description>🎮 Ideate2D – Make 2D Games &amp; Apps Without the Fuss Ideate2D is a WYSIWYG 2D game engine built on top of PyGame, designed to help you turn ideas into games—fast.</description>
+    <pubDate>Sat, 29 Nov 2025 15:05:26 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://shanksmakesstuff.xyz/</link>
+    <guid>https://shanksmakesstuff.xyz/</guid>
+    <description> window.location.href = `/Ideate2D.html` .page-title { font-size: 1.70rem; } .</description>
+    <pubDate>Sat, 29 Nov 2025 15:03:56 GMT</pubDate>
+  </item><item>
     <title>Tutorial</title>
     <link>https://shanksmakesstuff.xyz/Tutorial</link>
     <guid>https://shanksmakesstuff.xyz/Tutorial</guid>
     <description> Video Video Guides Coming Soon!! Just 3 Object Types to Make Anything Ideate2D keeps level creation simple and flexible.</description>
     <pubDate>Fri, 13 Jun 2025 10:52:02 GMT</pubDate>
-  </item><item>
-    <title>Ideate2D</title>
-    <link>https://shanksmakesstuff.xyz/Ideate2D</link>
-    <guid>https://shanksmakesstuff.xyz/Ideate2D</guid>
-    <description>🎮 Ideate2D – Make 2D Games &amp; Apps Without the Fuss Ideate2D is a WYSIWYG 2D game engine built on top of PyGame, designed to help you turn ideas into games—fast.</description>
-    <pubDate>Fri, 13 Jun 2025 10:10:02 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://shanksmakesstuff.xyz/</link>
-    <guid>https://shanksmakesstuff.xyz/</guid>
-    <description> window.location.href = `shashankraocoding.github.io/Ideate2D/Ideate2D.html` .page-title { font-size: 1.70rem; } .</description>
-    <pubDate>Thu, 12 Jun 2025 20:53:26 GMT</pubDate>
   </item>
     </channel>
   </rss>
